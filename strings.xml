@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name"> QUIEN QUIERE SER MILLONARIO</string>
+    <string name="pregunta">pregunta</string>
+
+
+
+
+    <array name="preguntasmult">
+        <item>Cuantos huesos tiene una persona?;106;*206;85;322;</item>
+        <item>capital de perú; Bogotá;Cusco;*Lima;Buenos aires;</item>
+        <item>departamentos de colombia;*32;35;28;33</item>
+        <item>Año en el que se fundó la universidad distrital fjdc;*1948;1933;1955;1966</item>
+        <item>días de un año;363;*365;361;332</item>
+        <item>Quien escribió la odisea?;*Homero;García Marquez;brandon Sanderson;Victor hugo</item>
+        <item>El rio más caudaloso del mundo;*amazonas;nilo;Tunjuelito;Obi</item>
+        <item>Origen de los juegos olimpicos;Roma;*Grecia;España;Estados unidos</item>
+        <item>Año en que terminó la seggunda guerra mundial;*1945;1947;1936;1948</item>
+        <item>Cual es el disco más vendido de la historia;Back in black;*Thiller;A night at the opera;Los 50 de joselito</item>
+        <item>País más grande del mundo; Francia;China;*Russia;Australia</item>
+        <item>Cual es el planeta más grande del sistema solar?;Marte;*jupiter;saturno;Urano</item>
+    </array>
+</resources>
